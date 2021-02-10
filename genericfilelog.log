@@ -1,0 +1,29 @@
+2021-01-12 18:19:47,866:INFO:retrieve all the files
+2021-01-12 18:19:47,867:INFO:destination file is opened
+2021-01-12 18:19:47,867:ERROR:something went wrong while opening a destination file
+2021-01-12 18:25:48,313:INFO:retrieve all the files
+2021-01-12 18:25:48,355:INFO:destination file is opened
+2021-01-12 18:25:48,356:ERROR:something went wrong while opening a destination file
+2021-01-12 18:28:43,609:INFO:retrieve all the files
+2021-01-12 18:28:43,610:INFO:destination file is opened
+2021-01-12 18:28:43,610:ERROR:something went wrong while opening a destination file
+2021-02-03 11:40:13,168:INFO:retrieve all the files
+2021-02-03 11:40:13,170:INFO:destination file is opened
+2021-02-03 11:40:13,170:INFO:source files are opened
+2021-02-03 11:40:13,171:INFO:all the files copied to the destination
+2021-02-03 11:40:13,172:ERROR:something went wrong while opening a destination file
+2021-02-10 11:35:24,477:INFO:retrieve all the files
+2021-02-10 11:35:24,478:INFO:destination file is opened
+2021-02-10 11:35:24,479:INFO:source files are opened
+2021-02-10 11:35:24,479:INFO:all the files copied to the destination
+2021-02-10 11:35:24,480:ERROR:something went wrong while opening a destination file
+2021-02-10 11:45:48,668:INFO:retrieve all the files
+2021-02-10 11:45:48,668:INFO:destination file is opened
+2021-02-10 11:45:48,669:INFO:source files are opened
+2021-02-10 11:45:48,669:INFO:all the files copied to the destination
+2021-02-10 11:45:48,670:ERROR:something went wrong while opening a destination file
+2021-02-10 12:01:59,012:INFO:retrieve all the files
+2021-02-10 12:01:59,028:INFO:destination file is opened
+2021-02-10 12:01:59,029:INFO:source files are opened
+2021-02-10 12:01:59,030:INFO:all the files copied to the destination
+2021-02-10 12:01:59,031:ERROR:something went wrong while opening a destination file
